@@ -1,4 +1,4 @@
-# 微星 B360M 迫击炮 黑苹果 OpenCore EFI 无核显版本
+# 微星 B360M 迫击炮 黑苹果 OpenCore EFI 无独显版本
 
 [![License](https://img.shields.io/github/license/GeQ1an/MSI-B360M-MORTAR-HACKINTOSH-OPENCORE-EFI)](https://github.com/GeQ1an/MSI-B360M-MORTAR-HACKINTOSH-OPENCORE-EFI/blob/master/LICENSE)
 [![Follow Me](https://img.shields.io/badge/%E5%85%B3%E6%B3%A8-Telegram-1da4de)](https://t.me/usestick/)
