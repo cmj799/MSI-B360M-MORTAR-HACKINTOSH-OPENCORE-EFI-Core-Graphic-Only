@@ -1,16 +1,13 @@
-# 微星 B360M 迫击炮 (钛金版) 黑苹果 OpenCore EFI
+# 微星 B360M 迫击炮 黑苹果 OpenCore EFI 无核显版本
 
-[![OpenCore](https://img.shields.io/badge/OpenCore-0.9.3-1ac3d4)](https://github.com/acidanthera/OpenCorePkg/releases/latest)
-[![macOS](https://img.shields.io/badge/macOS-13-ffb84a)](https://www.apple.com.cn/macos/ventura/)
-[![macOS](https://img.shields.io/badge/macOS-14-6ca024)](https://www.apple.com.cn/macos/sonoma-preview/)
-[![Last Commit](https://img.shields.io/github/last-commit/GeQ1an/MSI-B360M-MORTAR-HACKINTOSH-OPENCORE-EFI.svg?color=orange&label=%E6%9C%80%E8%BF%91%E6%8F%90%E4%BA%A4)](https://github.com/GeQ1an/MSI-B360M-MORTAR-HACKINTOSH-OPENCORE-EFI/commits/master/)
+color=orange&label=%E6%9C%80%E8%BF%91%E6%8F%90%E4%BA%A4)](https://github.com/GeQ1an/MSI-B360M-MORTAR-HACKINTOSH-OPENCORE-EFI/commits/master/)
 [![License](https://img.shields.io/github/license/GeQ1an/MSI-B360M-MORTAR-HACKINTOSH-OPENCORE-EFI)](https://github.com/GeQ1an/MSI-B360M-MORTAR-HACKINTOSH-OPENCORE-EFI/blob/master/LICENSE)
 [![Follow Me](https://img.shields.io/badge/%E5%85%B3%E6%B3%A8-Telegram-1da4de)](https://t.me/usestick/)
 
+本EFI forked 自 @GeQ1an ,此处保留原作者联系方式。关于介绍，我将花2-3天时间来修改，实质内容已经上传，可以下载使用。
+
 此文档的语言为简体中文，仅针对中文用户。For English? [Please click here](https://github.com/GeQ1an/MSI-B360M-MORTAR-HACKINTOSH-OPENCORE-EFI/blob/master/README.en.md).
 
-## 重要说明
-不知不觉已经更新此项目超过 3 年，但随着搭载 Apple Silicon 的 Mac Pro 发布，Mac 全线产品都已停止使用 x86 平台，Sonoma 或为最后一个支持 x86 平台的 macOS，且我也在此前将家用电脑更换为 Mac Studio，所以，此项目将在 Sonoma 发布正式版后一个月内停止更新，谢谢大家的使用。
 
 ## EFI 介绍
 
