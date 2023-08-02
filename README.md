@@ -3,7 +3,7 @@
 [![License](https://img.shields.io/github/license/GeQ1an/MSI-B360M-MORTAR-HACKINTOSH-OPENCORE-EFI)](https://github.com/GeQ1an/MSI-B360M-MORTAR-HACKINTOSH-OPENCORE-EFI/blob/master/LICENSE)
 [![Follow Me](https://img.shields.io/badge/%E5%85%B3%E6%B3%A8-Telegram-1da4de)](https://t.me/usestick/)
 
-本EFI forked 自 @GeQ1an ,此处保留原作者联系方式。关于介绍，我将花2-3天时间来修改，实质内容已经上传，可以下载使用。
+本EFI forked 自 @GeQ1an ，此处保留原作者联系方式。关于介绍，我将花2-3天时间来修改，实质内容已经上传，可以下载使用。
 
 此文档的语言为简体中文，仅针对中文用户。For English? [Please click here](https://github.com/GeQ1an/MSI-B360M-MORTAR-HACKINTOSH-OPENCORE-EFI/blob/master/README.en.md).
 
